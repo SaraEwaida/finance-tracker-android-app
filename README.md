@@ -27,7 +27,6 @@ Track income, expenses, budgets, and goals in one place.
 3. Run on an emulator or a real device
 
 ## Authors
-- Sara
+- Sara Ewaida
 
-## License
-MIT (or Private)
+
