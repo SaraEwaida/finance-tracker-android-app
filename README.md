@@ -21,12 +21,3 @@ Track income, expenses, budgets, and goals in one place.
 ![Finance Manager](assets/Finance_Manager_Mockup_3.png)
 
 
-## How to Run
-1. Open in Android Studio
-2. Sync Gradle
-3. Run on an emulator or a real device
-
-## Authors
-- Sara Ewaida
-
-
