@@ -17,9 +17,9 @@ Track income, expenses, budgets, and goals in one place.
 - Material Design
 
 ## Screenshots
-![Home](assets/screenshots/home.png)
-![Transactions](assets/screenshots/transactions.png)
-![Budgets](assets/screenshots/budgets.png)
+![Finance Manager](assets/Finance_Manager_Mockup_1.png)
+![Finance Manager](assets/Finance_Manager_Mockup_3.png)
+
 
 ## How to Run
 1. Open in Android Studio
